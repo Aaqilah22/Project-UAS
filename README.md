@@ -1,7 +1,10 @@
 Nama    : Aaqilah Aathirah Sutisna 
+
 Kelas   : TI.23.A.6
+
 NIM     : 312310621
-Link Projek : 
+
+Link Projek : https://youtu.be/NWdi-L2P-lM?si=o2zYd8vCngMw7Mzf
 
 # CARA KERJA PROGRAM 
 1. Pengguna diminta untuk memasukkan nama pembeli.
